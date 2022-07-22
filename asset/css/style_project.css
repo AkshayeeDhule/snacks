@@ -1,0 +1,164 @@
+*{
+	box-sizing:border-box;
+	font-family: 'Mingzat', sans-serif;
+	
+}
+
+.container_12{
+	background-color:#E8CA9C;
+	margin-top:40px;
+	
+}
+
+.banner{
+	text-align:center;
+	font-size:60px;
+	font-weight:bold;
+	color:#5C2711 ;
+	/*background-color:#F6FD12;*/
+	background-color:#E8CA9C;
+	height:200px;*/
+	
+}
+
+.cover{
+	margin-top:10px;
+	
+}
+
+.subheading{
+	font-size:30px;
+	text-align:center;
+	
+	font-weight:bold;
+	color:#5C2711 ;
+}
+
+.menu{
+	/*border-style:solid;*/
+	margin-top:10px;
+	text-align:center;
+	background-color:#F6672D;
+	
+}
+
+.menu a{
+	color:white;
+	font-weight:bold;
+	text-decoration:none;
+	display:block;
+}
+
+.section{
+    margin-top:30px;
+	text-align:center;
+	background-color:#F6672D;
+	height:70px;
+	color:white;
+	font-weight:bold;
+	font-size:28px;
+	
+}
+
+.contact{
+    margin-top:10px;
+	text-align:center;
+	/*background-color:#F6672D;
+	color:white;*/	
+}
+
+.eproduct{
+	border-style:solid;
+	margin-top:20px;
+	height:400px;
+}
+
+.off{
+	border-style:solid;
+	margin-top:20px;
+	height:420px;
+}
+
+.eprice{
+	/*border-style:solid;*/
+	background-color:#F72E08;
+	font-weight:bold;
+	color:white;
+	margin-left:20px;
+	border-radius:3px;
+	width:30px;
+	
+}
+
+.btn_buyn{
+	margin-left:100px;
+	border-width:0px;
+	background-color:#EB3848;
+	color:white;
+	border-radius:3px;
+	font-weight:bold;
+	width:110px;
+	margin-top:15px;
+	
+}
+
+.buy_now{
+	
+	border-width:0px;
+	background-color:#EB3848;
+	color:white;
+	border-radius:3px;
+	font-weight:bold;
+	margin-left:50px;
+	width:100px;
+	
+}
+
+.btn_eproduct{
+	margin-left:30px;
+	border-width:0px;
+	background-color:#2F8D14;
+	color:white;
+	border-radius:3px;
+	font-weight:bold;
+	width:100px;
+}
+
+
+
+.ladoo{
+	text-align:center;
+	font-weight:bold;
+	
+}
+
+.sna_swe{
+	text-align:center;
+	font-weight:bold;
+	font-size:50px;
+}
+
+.key{
+	text-align:center;
+	font-weight:bold;
+	font-size:50px;
+	
+}
+
+.testi{
+	text-align:center;
+	
+	height:400px;
+	margin-top:10px;
+	
+}
+
+.footer{
+	height:220px;
+	margin-top:10px;
+	background-color:#F6672D;
+	text-align:center;
+	color:white;
+	font-weight:bold;
+	
+}
